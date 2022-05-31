@@ -3,7 +3,7 @@
 <head>
 <title>Tongue Twister!</title>
 </head>
-<body> <h1>Twist your tongue a little!</h1>
+<body> 
 <p>She sells sea shells on the sea shore.</p>
 <p>Betty bought a better butter to make the bitter butter better.</p> </body>
 </html>
